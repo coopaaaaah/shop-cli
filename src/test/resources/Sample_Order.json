@@ -1,0 +1,40 @@
+{
+  "identifier": "O01",
+  "products": [
+    {
+      "name": "Ready Player Two",
+      "ean": 9781524761332,
+      "location": "LOC-01"
+    },
+    {
+      "name": "Ready Player Two",
+      "ean": 9781524761332,
+      "location": "LOC-01"
+    },
+    {
+      "name": "The Vanishing Half: A Novel",
+      "ean": 9780525536291,
+      "location": "LOC-01"
+    },
+    {
+      "name": "A Time for Mercy",
+      "ean": 9780385545969,
+      "location": "LOC-03"
+    },
+    {
+      "name": "The Midnight Library",
+      "ean": 9780525559474,
+      "location": "LOC-03"
+    },
+    {
+      "name": "The Guest List",
+      "ean": 9780062868930,
+      "location": "LOC-04"
+    },
+    {
+      "name": "The Guest List",
+      "ean": 9780062868930,
+      "location": "LOC-04"
+    }
+  ]
+}
